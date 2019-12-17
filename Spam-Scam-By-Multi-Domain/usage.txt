@@ -1,0 +1,1 @@
+python spamthescammer.py <url of login page> <username inpute name> <password inpute name>
